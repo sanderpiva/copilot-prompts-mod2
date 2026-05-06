@@ -45,13 +45,15 @@ Após as respostas, o agente analisa e sugere carreiras adequadas, passando as i
 
 Após concluir este projeto, você estará apto a:
 - Desenvolver planos de desenvolvimento profissional personalizados
-- Utilizar prompts eficazes em ferramentas como GitHub Copilot, Gemini, entre outros
+- Utilizar prompts eficazes em ferramentas como Microsoft Copilot, Gemini, entre outros
 
 ## 🚀 Como replicar
 
 - Copie o prompt do Agente 1 no Microsoft Copilot ou em outra IA de sua preferência.
 - Responda às perguntas.
 - Copie a saída e cole para o Agente 2 para gerar seu plano.
+
+<hr>
 
 ## 📝 Seção do Aluno: Meus Resultados
 
@@ -167,7 +169,9 @@ Preferência: Dados
 
 Interesses técnicos mencionados: Dados, Inteligência Artificial, Python, R, SQL, Power BI, Looker Studio, Flutter, Android Studio, Java, HTML, CSS, JS, PHP.
 
-###  <img width="62" height="62" alt="Copilot_20260506_152311 (1)" src="https://github.com/user-attachments/assets/9187f744-7d82-48d4-ba47-48e8d2120ec6" /> Execução: Agente 2 (O Planejador)
+<hr>
+
+### <img width="62" height="62" alt="Copilot_20260506_152311 (1)" src="https://github.com/user-attachments/assets/9187f744-7d82-48d4-ba47-48e8d2120ec6" /> Execução: Agente 2 (O Planejador)
 
 Olá! Recebi suas informações do entrevistador.
 
